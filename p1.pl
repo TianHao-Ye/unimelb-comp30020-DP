@@ -176,15 +176,4 @@ rrw(S, [W|Ws], Acc, FilteredWords) :-
     AccNew = Acc
     ),
     rrw(S, Ws, AccNew, FilteredWords).
-
-
-
-
-
-
-
-
     
-
-
-
